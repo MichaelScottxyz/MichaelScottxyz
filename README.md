@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😶‍🌫️ I'm Michael Scott
+- 👨🏻‍💼 I'm not the regional manager at Dunder Mifflin
+- 📖 I'm currently learning C
